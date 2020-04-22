@@ -1,5 +1,6 @@
 # COVID19_Simulations
-Simulating the spread of COVID-19 in a 2D sandbox universe
+Simulating the spread of COVID-19 in a 2D sandbox universe.
+Uses java swing to display an animation and plot of the ongoing simulation.
 
 Each dot (instance of the Member class) represents a household in the universe.
 The COVID19_Population class is responsible for treating a list of Members as a Population - it moves them in the universe and conducts the spread of the virus.
